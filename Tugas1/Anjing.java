@@ -4,6 +4,7 @@ public class Anjing {
     private int umur;
     private String warnaBulu;
 
+    //ini kontraksi
     public Anjing(String nama, String ras, int umur, String warnaBulu) {
         this.nama = nama;
         this.ras = ras;
